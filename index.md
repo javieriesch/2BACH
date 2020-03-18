@@ -2,6 +2,7 @@
 Ante la posibilidad de no poder evaluar con un examen, el sistema de evaluación será un trabajo individual. A lo largo de esta semana colgaré aquí mismo las instrucciones para realizarlo.
 
 # Materiales de clase
+Las clases se han detenido pero el temario debe avanzar, de manera que iré subiendo aquí los materiales correspondientes a cada semana, así como cualquier documento adicional que sea útil para la realización del trabajo final.
 
 # Más información
 ## [Anuncios](https://javieriesch.github.io/)
