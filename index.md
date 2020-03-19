@@ -7,5 +7,6 @@ Las clases se han detenido pero el temario debe avanzar, de manera que iré subi
 # Más información
 ## [Anuncios](https://javieriesch.github.io/)
 Anuncios de carácter general acerca de la repercusión de la pandemia en el funcionamiento de las clases.
-## Contacto: [jsantacruz@iescabodelahuerta.com](mailto:jsantacruz@iescabodelahuerta.com)
-Os podeis poner en contacto conmigo directamente a través de correo electrónico
+## Contacto: 
+Os podeis poner en contacto conmigo directamente a través de correo electrónico:
+[jsantacruz@iescabodelahuerta.com](mailto:jsantacruz@iescabodelahuerta.com)
