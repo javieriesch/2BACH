@@ -12,12 +12,12 @@ Ante la posibilidad de no poder evaluar con un examen, el sistema de evaluación
 # Materiales de clase
 Las clases se han detenido pero el temario debe avanzar, de manera que iré subiendo aquí los materiales correspondientes a cada semana, así como cualquier documento adicional que sea útil para la realización del trabajo final.
 
-- Instrucciones para hacer una disertación: (Ver aquí)[https://github.com/javieriesch/2BACH/blob/master/disertaciones.pdf]
+- Instrucciones para hacer una disertación: [Ver aquí](https://github.com/javieriesch/2BACH/blob/master/disertaciones.pdf)
 - The Century of the Self (El siglo del Yo) Adam Curtis
-  - Máquinas de felicidad (ver aquí)[https://www.youtube.com/watch?v=DotBVZ26asI&list=PLFqHQDzTOTbQ5Tiw7RMgtpxsaWGA6mcgM&index=1]
-  - Ingeniería del consentimiento (ver aquí)[https://www.youtube.com/watch?v=NlqVuQZv9Qs&list=PLFqHQDzTOTbQ5Tiw7RMgtpxsaWGA6mcgM&index=2]
-  - Hay un policía ... en vuestras cabezas (ver aquí)[https://www.youtube.com/watch?v=kq3Zz4Wo6_A&list=PLFqHQDzTOTbQ5Tiw7RMgtpxsaWGA6mcgM&index=3]
-  - Ocho personas bebiendo vino en Kettering (ver aquí)[https://www.youtube.com/watch?v=36kPSftpzjI&list=PLFqHQDzTOTbQ5Tiw7RMgtpxsaWGA6mcgM&index=4]
+  - Máquinas de felicidad: [ver aquí](https://www.youtube.com/watch?v=DotBVZ26asI&list=PLFqHQDzTOTbQ5Tiw7RMgtpxsaWGA6mcgM&index=1)
+  - Ingeniería del consentimiento: [ver aquí](https://www.youtube.com/watch?v=NlqVuQZv9Qs&list=PLFqHQDzTOTbQ5Tiw7RMgtpxsaWGA6mcgM&index=2)
+  - Hay un policía ... en vuestras cabezas: [ver aquí)](https://www.youtube.com/watch?v=kq3Zz4Wo6_A&list=PLFqHQDzTOTbQ5Tiw7RMgtpxsaWGA6mcgM&index=3)
+  - Ocho personas bebiendo vino en Kettering: [ver aquí])https://www.youtube.com/watch?v=36kPSftpzjI&list=PLFqHQDzTOTbQ5Tiw7RMgtpxsaWGA6mcgM&index=4)
 
 # Más información
 ## [Anuncios](https://javieriesch.github.io/)
