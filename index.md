@@ -6,7 +6,7 @@ Ante la posibilidad de no poder evaluar con un examen, el sistema de evaluación
    - **Una tesis propia**. Puede ser acerca del propio Bernays, o una relación de los contenidos del documental con la actualidad, o una patologia, o el comportamiento de las masas en el actual confinamiento, o lo que se os ocurra (pero dicha tesis debe ser planteada en una sola afirmación al principio del trabajo). En los *Materiales de clase* incluyo un recordatorio que ya vimos en 4º de cómo se elaboraba una disertación.
    - **Información adicional a la proporcionada por el documental, debidamente referenciada**. Buscar artículos e información relacionada con la tesis planteada y referenciarla correctamente en la bibliografía. Os añado un documento en *Materiales de clase* que resolverá cualquier duda acerca de las bibliografías.
   
-3. **Mandarla a mi correo jsantacruz@iescabodelahuerta.com antes del cierre de la evaluación** figurando en el título "ENTREGA PSICOLOGÍA", seguido del primer apellido y nombre. 
+3. **Mandarla a mi correo javier_santacruz@iescabodelahuerta.com antes del cierre de la evaluación** figurando en el título "ENTREGA PSICOLOGÍA", seguido del primer apellido y nombre. 
 
 
 # Materiales de clase
@@ -24,4 +24,4 @@ Las clases se han detenido pero el temario debe avanzar, de manera que iré subi
 Anuncios de carácter general acerca de la repercusión de la pandemia en el funcionamiento de las clases.
 ## Contacto: 
 Os podeis poner en contacto conmigo directamente a través de correo electrónico:
-[jsantacruz@iescabodelahuerta.com](mailto:jsantacruz@iescabodelahuerta.com)
+[javier_santacruz@iescabodelahuerta.com](mailto:javier_santacruz@iescabodelahuerta.com)
