@@ -1,3 +1,13 @@
+# Adaptación de los Criterios de calificación
+La resolución de 4 de mayo de la Secretaría Autonómica de Educación y Formación Profesional, ante la situación de crisis ocasionada por la COVID-19, establece una serie de directrices de actuación a desarrollar durante el tercer trimestre del curso 2019-2020. Según dichas directrices:
+    1. Las actividades de evaluación del tercer trimestre deben tener carácter diagnóstico y formativo. 
+    2. Los instrumentos de evaluación utilizados deben estar dirigidos a valorar el trabajo realizado por el alumnado, su interés en la realización de las tareas y actividades propuestas y la actitud mostrada en el seguimiento de la actividad desarrollada. 
+    3. La evaluación final del curso 2019-2020 se conformará con los resultados de la primera y segunda evaluación, y, en su caso, con la mejora de la tercera evaluación.
+En aplicación de la normativa citada anteriormente se procede a la modificación de la programación de las materias del Departamento de Filosofía. En concreto, se modifican los criterios de calificación de la tercera evaluación y de la evaluación final. Todas las modificaciones realizadas se exponen a continuación por asignaturas.
+## Psicología
+La calificación final en la asignatura será, básicamente, la media de las calificaciones de la primera y la segunda evaluación. A esa nota media se le podrá sumar hasta un máximo de 2 puntos que corresponderá al trabajo a distancia realizado por el/la alumno/a durante el tercer trimestre.
+Al alumnado que tenga suspensas las dos primeras evaluaciones o alguna de ellas se le ofrecerá la realización de un trabajo para que tenga la posibilidad de mejorar la calificación final de las mismas.
+
 # Evaluación 
 Ante la posibilidad de no poder evaluar con un examen, el sistema de evaluación será un trabajo individual. A lo largo de esta semana colgaré aquí mismo las instrucciones para realizarlo.
 ## Instrucciones
